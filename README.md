@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://pbxt.replicate.delivery/2PX94viD6lJSDVayQrGyDH7CGu7IjQ6e8HEtOGDeelefXRdOC/out.png" alt="Dantotsu Banner" width=100% >
+   <img src="mainlogo.png" alt="AniNZXT Banner" width=100% >
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
@@ -8,13 +8,12 @@
    <a href="https://discord.gg/4HPZ5nAWwM"><img src="https://img.shields.io/discord/358599430502481920.svg?style=for-the-badge&logo=discord&colorB=7289DA"></a>
 </p>
 
-# **Dantotsu** 🌟
+# **AniNZXT** ✳️
 
-Dantotsu is an [Anilist](https://anilist.co/) only client.
+AniNZXT is an [Anilist](https://anilist.co/) only client, based on Dantotsu and Saikou (forked from Dantotsu)
 
-> **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
+> **AniNZXT** is aimed to entice the next generation of anime fans (and the veterans too!) to enjoy anime and manga at its fullest! AniNZXT initially started out as a website before becoming an app. Check it out for yerself!
 
-<a href="https://www.buymeacoffee.com/rebelonion"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rebelonion&button_colour=FFDD00&font_colour=030201&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
 
